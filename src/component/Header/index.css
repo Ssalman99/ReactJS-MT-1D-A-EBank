@@ -1,0 +1,27 @@
+.header {
+  height: 15%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: #152850;
+  padding: 15px;
+}
+
+.nav-logo {
+  height: 50%;
+  width: 8%;
+  margin-top: 2%;
+  margin-left: 2%;
+}
+
+.header-button {
+  height: 50%;
+  width: 8%;
+  background-color: transparent;
+  border: solid 1px #f8fafc;
+  color: #f8fafc;
+  font-size: 13px;
+  font-weight: bold;
+  margin-right: 2%;
+  margin-top: 2%;
+}
